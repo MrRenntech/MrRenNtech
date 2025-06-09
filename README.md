@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Sean 👋
 
-<!--
-**MrRenntech/MrRenNtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚗 Auto enthusiast | 💻 Python Developer | 🧠 Tech Explorer
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about building projects in Python—from fun games to AI tools—and sharing what I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Build
+- 🔊 **Speech Recognition Tools**
+- 🧠 **AI-powered Match Analysis**
+- 🎮 **Games & Emulators (Snake, CHIP-8)**
+- 🕵️ **Web Scrapers and APIs**
+
+## 📦 Featured Projects
+- [AI-Football-Match-Analysis](https://github.com/MrRenntech/AI-football-analysis-dashboard)
+- [Face Detection Model](https://github.com/MrRenntech/Face-Detection-Model)
+- [Steel Virtual Assistant](https://github.com/MrRenntech/Speech-Recognition)
+
+## 🧰 Tech Stack
+- **Languages**: Python, HTML/CSS, JS
+- **Libraries**: Flask, OpenCV, pygame, BeautifulSoup
+- **Tools**: Git, VS Code, Ubuntu (dual boot 💻)
+
+## 📫 Let’s Connect
+- LinkedIn: []
+- Email: seanren1738@gmail.com
+
+---
+> _"The best way to learn is by building."_ 🚀
