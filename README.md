@@ -1,4 +1,4 @@
-# Hey, I'm Sean 👋
+# Hey, I'm MrRenNtech 👋
 
 🚗 Auto enthusiast | 💻 Python Developer | 🧠 Tech Explorer
 
