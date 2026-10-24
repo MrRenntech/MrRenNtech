@@ -2,7 +2,7 @@
   <img src="assets/profile-banner.svg" alt="MrRenntech — Ideas into useful software" width="100%" />
   <br/><br/>
   <a href="https://github.com/MrRenntech?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Explore projects" /></a>
-  <a href="https://github.com/MrRenntech/Steel"><img src="https://img.shields.io/badge/Building-Steel-8b5cf6?style=for-the-badge&logo=windows&logoColor=white&labelColor=111827" alt="Building Steel" /></a>
+  <a href="https://github.com/MrRenntech/Steel-Releases"><img src="https://img.shields.io/badge/Building-Steel-8b5cf6?style=for-the-badge&logo=windows&logoColor=white&labelColor=111827" alt="Building Steel" /></a>
 </div>
 
 # Hey, I’m MrRenntech
@@ -13,7 +13,7 @@ I build practical software at the intersection of **AI, automation, analytics, a
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Steel](https://github.com/MrRenntech/Steel) · [Downloads](https://github.com/MrRenntech/Steel-Releases) | A Windows desktop assistant combining voice, local AI, and everyday tools. | Python · PySide6 · QML · Ollama |
+| [Steel for Windows](https://github.com/MrRenntech/Steel-Releases) · [Downloads](https://github.com/MrRenntech/Steel-Releases/releases) | A Windows desktop assistant combining voice, local AI, and everyday tools. | Python · PySide6 · QML · Ollama |
 | [AI Football Analysis Dashboard](https://github.com/MrRenntech/AI-football-analysis-dashboard) | Video analysis for player movement, possession, and match metrics. | Next.js · FastAPI · Computer Vision |
 | [SmartFit AI Tracker](https://github.com/MrRenntech/SmartFit-AI-Tracker) | Workout and nutrition tracking with analytics and food image analysis. | React · FastAPI · SQLite |
 | [Cyber Forensic LAB](https://github.com/MrRenntech/Cyber-Forensic-LAB) | An interactive forensic investigation and learning environment. | Node.js · MongoDB |
@@ -48,7 +48,7 @@ I build practical software at the intersection of **AI, automation, analytics, a
 ## Explore
 
 - [All repositories](https://github.com/MrRenntech?tab=repositories)
-- [Steel source code](https://github.com/MrRenntech/Steel) · [Steel releases](https://github.com/MrRenntech/Steel-Releases/releases)
+- [Steel for Windows](https://github.com/MrRenntech/Steel-Releases) · [Steel releases](https://github.com/MrRenntech/Steel-Releases/releases)
 
 <div align="center">
   <sub>Designed and built by MrRenntech · Always learning, always shipping.</sub>
