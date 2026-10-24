@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">MrRenntech — Engineering ideas into useful software</title>
+<desc id="desc">Dark navy technology banner with cyan and violet circuit lines.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".55" stop-color="#101a33"/><stop offset="1" stop-color="#24134a"/></linearGradient>
+  <linearGradient id="glow" x1="0" x2="1"><stop stop-color="#35d9ff"/><stop offset="1" stop-color="#9b7bff"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#5c4aff" stop-opacity=".28"/><stop offset="1" stop-color="#5c4aff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="920" cy="90" r="300" fill="url(#halo)"/>
+<g fill="none" stroke="url(#glow)" stroke-opacity=".55" stroke-width="2">
+<path d="M700 0v72h80v52h75v50h130"/><path d="M820 0v42h75v54h105v44h200"/>
+<path d="M1200 220h-96v-56h-88v-48h-68"/><path d="M930 360v-62h80v-62h190"/>
+<path d="M670 245h88v-42h66v-54h95"/><path d="M1060 0v35h-62v52h-72"/>
+</g>
+<g fill="#71e7ff"><circle cx="855" cy="174" r="4"/><circle cx="1000" cy="140" r="4"/><circle cx="930" cy="244" r="4"/><circle cx="780" cy="124" r="4"/></g>
+<text x="76" y="142" fill="#f5f8ff" font-family="Segoe UI,Arial,sans-serif" font-size="22" letter-spacing="5" font-weight="600">MR RENNTECH  /  PERSONAL LAB</text>
+<text x="72" y="218" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">Ideas into useful software.</text>
+<text x="76" y="267" fill="#b8c6dc" font-family="Segoe UI,Arial,sans-serif" font-size="22">AI  ·  desktop tools  ·  data systems  ·  practical experiments</text>
+<rect x="76" y="302" width="116" height="4" rx="2" fill="url(#glow)"/>
+</svg>
