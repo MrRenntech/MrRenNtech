@@ -1,63 +1,55 @@
-# 👋 Hi, I'm MrRenntech
+<div align="center">
+  <img src="assets/profile-banner.svg" alt="MrRenntech — Ideas into useful software" width="100%" />
+  <br/><br/>
+  <a href="https://github.com/MrRenntech?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-38bdf8?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="Explore projects" /></a>
+  <a href="https://github.com/MrRenntech/Steel"><img src="https://img.shields.io/badge/Building-Steel-8b5cf6?style=for-the-badge&logo=windows&logoColor=white&labelColor=111827" alt="Building Steel" /></a>
+</div>
 
-🚗 Car Enthusiast | 💻 Full-Stack Developer | 🧠 Tech Explorer |
+# Hey, I’m MrRenntech
 
-Welcome to my GitHub! I’m passionate about building smart tools, automating workflows, analyzing data, and creating personal projects that push the boundaries of technology. Whether I’m integrating machine learning into web apps or tuning cars, I’m always eager to learn and build.
+I build practical software at the intersection of **AI, automation, analytics, and desktop tools**. This profile is my workshop: a mix of active products, experiments, and projects that help me learn by shipping.
 
----
+## Featured work
 
-## 🛠️ What I Build & Explore
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Steel](https://github.com/MrRenntech/Steel) · [Downloads](https://github.com/MrRenntech/Steel-Releases) | A Windows desktop assistant combining voice, local AI, and everyday tools. | Python · PySide6 · QML · Ollama |
+| [AI Football Analysis Dashboard](https://github.com/MrRenntech/AI-football-analysis-dashboard) | Video analysis for player movement, possession, and match metrics. | Next.js · FastAPI · Computer Vision |
+| [SmartFit AI Tracker](https://github.com/MrRenntech/SmartFit-AI-Tracker) | Workout and nutrition tracking with analytics and food image analysis. | React · FastAPI · SQLite |
+| [Cyber Forensic LAB](https://github.com/MrRenntech/Cyber-Forensic-LAB) | An interactive forensic investigation and learning environment. | Node.js · MongoDB |
+| [Flight Fare Prediction](https://github.com/MrRenntech/Flight-Fare-Prediction) | A machine-learning app for exploring airline fare estimates. | Python · Flask · scikit-learn |
+| [Apex Analytics AI](https://github.com/MrRenntech/Apex---Analytics-AI-) | An employee-retention analytics dashboard with predictive insights. | Python · Flask · scikit-learn |
 
-- 🎥 **Video Analysis Dashboards** (Sports & AI-powered insights)
-- 🔊 **Virtual Assistants**
-- 🎮 **Games & Emulators** (Python-based fun projects)
-- ✈️ **Machine Learning Models** (Flight fare prediction, face detection)
-- 🕵️‍♂️ **Web Scrapers, APIs & Automation Scripts**
+### More experiments
 
----
+[Face Detection with OpenCV](https://github.com/MrRenntech/Face-Dectection-Opencv) · [AI Grade Prediction](https://github.com/MrRenntech/AI-Grade-Prediction) · [Phone Call utility](https://github.com/MrRenntech/Phone_Call.py)
 
-## 🔧 Tech Stack & Tools
+## Tools I work with
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)  
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
+<div align="center">
 
----
+![Python](https://img.shields.io/badge/Python-0b1220?style=flat-square&logo=python&logoColor=54c7ec)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1220?style=flat-square&logo=javascript&logoColor=f7df1e)
+![React](https://img.shields.io/badge/React-0b1220?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-0b1220?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0b1220?style=flat-square&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0b1220?style=flat-square&logo=flask&logoColor=ffffff)
+![OpenCV](https://img.shields.io/badge/OpenCV-0b1220?style=flat-square&logo=opencv&logoColor=5c9fd6)
+![GitHub](https://img.shields.io/badge/GitHub-0b1220?style=flat-square&logo=github&logoColor=ffffff)
 
-## 🚀 Featured Projects
+</div>
 
-- 🎥 [Football Video Analysis Dashboard](https://github.com/MrRenntech/football-analysis-dashboard)  
-  A full-stack Next.js + Flask app to upload, compare, and analyze player performance through videos.
+## What I’m focused on
 
-- ☎️ [Phone Call Simulation](https://github.com/MrRenntech/Phone-Call)  
-  A beginner-friendly Python script simulating phone call interactions.
+- Making **Steel** a capable, private-first desktop assistant.
+- Turning computer-vision and machine-learning ideas into usable tools.
+- Improving projects through hands-on building, testing, and iteration.
 
-- 🎤 [Speech Recognition Tool](https://github.com/MrRenntech/Speech-Recognition)  
-  Python-based voice recognition with plans to evolve into a smart assistant.
+## Explore
 
-- ✈️ [Flight Fare Prediction](https://github.com/MrRenntech/FlightFarePrediction)  
-  A machine learning model predicting flight prices from multiple factors.
+- [All repositories](https://github.com/MrRenntech?tab=repositories)
+- [Steel source code](https://github.com/MrRenntech/Steel) · [Steel releases](https://github.com/MrRenntech/Steel-Releases/releases)
 
----
-
-## 📊 GitHub Stats
-
-![MrRenntech's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRenntech&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRenntech&layout=compact&theme=radical)  
-
----
-
-## 📫 Let's Connect
-
-- LinkedIn: [Add your link here]  
-- Instagram: [Add your handle here]  
-- Email: seanren1738@gmail.com  
-
----
-
-🛠️ *Always learning. Always building. Always Renntech.*
+<div align="center">
+  <sub>Designed and built by MrRenntech · Always learning, always shipping.</sub>
+</div>
